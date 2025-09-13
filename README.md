@@ -1,6 +1,6 @@
 # USDA NAIP Large Orthomosaic Distribution
 
-This is an automated workflow for the distribution of 2022 USDA National Agriculture Imagery Program (NAIP) aerial imagery (30 - 60 cm resolution, depending on the state) at the county level or for customized AOI. A pre-compiled GDAL wheel is provided for processing the MrSID raster files. Unlike common distribution platforms, such as NASA's Earth Explorer, users can directly retrieve large-scale (county-level or equivalent-scale AOI) NAIP orthomosaic data without post-processing a large number of small tiles. 
+This is an automated workflow for the distribution of 2022 USDA National Agriculture Imagery Program (NAIP) aerial imagery (30 - 60 cm resolution, depending on the state) at the county level or for customized AOI. A pre-compiled GDAL wheel is provided for processing the MrSID raster files. Unlike common distribution platforms, such as USGS's Earth Explorer, users can directly retrieve large-scale (county-level or equivalent-scale AOI) NAIP orthomosaic data without post-processing a large number of small tiles. 
 
 Note that, due to resource limitations, I have only created a complete workflow for California; however, the same workflow can be applied to any CONUS U.S. state. 
 
